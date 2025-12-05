@@ -1,3 +1,5 @@
+Lien Kaggle : https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+
 🌟 Explication des principales pathologies oculaires (ODIR-5K)
 
 Les maladies oculaires regroupées dans le dataset ODIR-5K couvrent les affections les plus fréquentes détectées via les images du fond d’œil (fundus). Chaque pathologie affecte une partie différente de l’œil et peut entraîner une altération de la vision si elle n’est pas prise en charge.
